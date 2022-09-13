@@ -10,3 +10,11 @@ Husky + commitlint setup
 ```bash
 npm install
 ```
+
+# Self signed SSL
+
+for local testing
+
+```bash
+make generate-selfsigned-cert
+```
